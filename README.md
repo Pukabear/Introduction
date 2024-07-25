@@ -8,7 +8,7 @@ I am currently an aspiring System Engineer and am displaying my Data Analyst ski
 ---
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pukabear&show_icons=true&theme=dark" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Pukabear&theme=dark&hide_border=true" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Pukabear&theme=dark&hide_border=false" width="400">
 </p>
 
 ---
